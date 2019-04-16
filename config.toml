@@ -4,6 +4,8 @@ title = "Polish City club"
 themesDir = "themes"
 theme = "gohugo-theme-ananke"
 publishDir = "docs"
+SectionPagesMenu = "main"
 
 [params]
+    facebook = "https://www.facebook.com/PolishCityClub/"
     featured_image = "/images/gohugo-default-sample-hero-image.jpg"

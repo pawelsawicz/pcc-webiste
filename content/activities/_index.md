@@ -1,0 +1,28 @@
+---
+title: "What we do"
+description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+featured_image: ''
+---
+{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+
+What we do
+
+Guest speaker series
+
+In order to broaden network, knowledge and professional aspirations of our members we organise evening gatherings to which we invite interesting, Polish or international speakers from area of politics, academia or business. An hour or so presentation of our guest is usually followed by Q&A session, drinks and networking opportunity. Those who expressed their interest prior to the event may then accompany the guest at a dinner.
+BTMB – Beat the Monday Blues
+
+Networking opportunity for our members and their guests on every first Monday of the month combined with a short talk of an invited guest.
+Aspire
+
+Aspire Programme is our intellectual aspiration to activate and unlock potential of Polish Diaspora in the UK and motivate Poles to actively participate in local communities and have a say in local, national and EU elections.
+By Aspire Programme we develop, implement and support Marketing and Education Programmes to to the Polish Diaspora residing outside Poland, that will create greater access to the political life participation and other opportunities including Local/Central/EU/Polish elections in United Kingdom and further ‘exporting’ this idea to the Continental Europe.
+High Fly! Internship Programme
+
+HighFly – connecting high flying students and graduates with high flying companies.
+Key goal of the program is promotion of talented Polish students and graduates in UK enabling access to:
+- internship programs at UK based companies
+- mentoring programs with PCC members
+- networking events aimed at career planning and career development
+- alumni programs and opportunity to meet with other graduates
+

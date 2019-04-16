@@ -3,8 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pawelsawicz.github.io/pcc-website/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://pawelsawicz.github.io/pcc-website/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/pcc-website/events/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/pcc-website/members/honorary/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/pcc-website/join-us/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/pcc-website/members/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/pcc-website/members/structure/</loc>
   </url>
   
   <url>
@@ -12,8 +36,16 @@
   </url>
   
   <url>
+    <loc>https://pawelsawicz.github.io/pcc-website/press/</loc>
+  </url>
+  
+  <url>
     <loc>https://pawelsawicz.github.io/pcc-website/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/pcc-website/activities/</loc>
   </url>
   
 </urlset>
