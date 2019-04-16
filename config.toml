@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Polish City club"
 themesDir = "themes"
 theme = "gohugo-theme-ananke"
+publishDir = "docs"
 
 [params]
     featured_image = "/images/gohugo-default-sample-hero-image.jpg"
