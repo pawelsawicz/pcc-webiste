@@ -1,8 +1,7 @@
 ---
 title: "Our Members"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: ''
-menu: "main"
+omit_header_text: true
+type: page
 ---
 The Members of our Club are highly skilled, experienced and successful Professionals who are enthusiastic and motivated to dedicate their time and energy in helping each other as well as acting in the interest of Poland. They share the common values and believe in the ethos of mutual respect and open discussions. They act to promote the good name and image of Poland.
 
