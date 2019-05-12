@@ -8,4 +8,6 @@ SectionPagesMenu = "main"
 
 [params]
     facebook = "https://www.facebook.com/PolishCityClub/"
+    twitter = "https://twitter.com/PolishCityClub"
+    linkedin = "http://www.linkedin.com/groups/Polish-City-Club-1393417/about"
     featured_image = "/images/B5T4HY.jpg"

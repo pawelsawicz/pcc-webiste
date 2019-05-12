@@ -11,6 +11,29 @@
     
     
     <item>
+      <title>About</title>
+      <link>https://pawelsawicz.github.io/pcc-website/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/pcc-website/about/</guid>
+      <description>Polish City Club (PCC) is a members-only organization founded by Polish professionals working in London.
+The Club’s mission is to integrate the professionals interested in building a well connected and successful Polish diaspora in the UK, actively promote Poland, facilitate knowledge exchange among Polish professionals, politicians and international communities and increase interest of international business communities in Poland-related issues.
+The objectives of our Club include:
+ Integration of community of Polish professionals living in London by building a well-connected and successful Polish diaspora in the UK Acting as a platform of integration and know-how exchange among Club members, politicians, academics and members of international business communities Promoting the image of Poland in the UK Promoting awareness among the business community at large of economic, political and other developments related to Poland Cooperating with the governmental bodies and think-tanks in order to represent Polish interests in the UK</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://pawelsawicz.github.io/pcc-website/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/pcc-website/contact/</guid>
+      <description>Contact us if you:
+ would like to join our club are a Polish society, club or an organization wishing to work with us on an idea or an initiative you find compelling are a Polish company looking to expand to the UK are a Polish entrepreneur looking to raise funding in London  We look forward to hearing from you!
+You can contact us at polishcityclub.org@gmail.com or leave a message using the contact form below.</description>
+    </item>
+    
+    <item>
       <title>Honorary Members</title>
       <link>https://pawelsawicz.github.io/pcc-website/members/honorary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -38,6 +61,32 @@
       
       <guid>https://pawelsawicz.github.io/pcc-website/members/structure/</guid>
       <description>PCC management team: - Jakub Molski – Presient</description>
+    </item>
+    
+    <item>
+      <title>Pres</title>
+      <link>https://pawelsawicz.github.io/pcc-website/press/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/pcc-website/press/</guid>
+      <description>Articles and videos featuring Polish City Club and its members Puls Biznesu, 11.10.2015 Elita nie chce wracać do kraju
+http://m.pb.pl/4318841,41180,elita-nie-chce-wracac-do-kraju?dimension=667
+Rzeczpospolita, 6.10.2015 Wolą karierę na Wyspach niż powrót do kraju
+http://www4.rp.pl/Sciezki-kariery/310069761-Wola-kariere-na-Wyspach-niz-powrot-do-kraju.html&amp;amp;template=printart
+Nature Magazine, 1.10.2015 Nicolas T. Courtois in the article ‘Bitcoin and beyond’
+http://www.nature.com/news/the-future-of-cryptocurrencies-bitcoin-and-beyond-1.18447
+Dziennik Gazeta Prawna, 12.09.2015 Korpomafia znad Wisły: Prezesami Microsoftu i Google’a wkrótce będą Polacy?
+http://biznes.gazetaprawna.pl/artykuly/893394,korpomafia-znad-wisly-prezesami-microsoftu-i-google-a-wkrotce-beda-polacy.html
+Tok FM, 27.08.2015 Prezes PCC w audycji ‘Co sie stalo?’</description>
+    </item>
+    
+    <item>
+      <title>What we do</title>
+      <link>https://pawelsawicz.github.io/pcc-website/activities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/pcc-website/activities/</guid>
+      <description>Guest speaker series In order to broaden network, knowledge and professional aspirations of our members we organise evening gatherings to which we invite interesting, Polish or international speakers from area of politics, academia or business. An hour or so presentation of our guest is usually followed by Q&amp;amp;A session, drinks and networking opportunity. Those who expressed their interest prior to the event may then accompany the guest at a dinner.</description>
     </item>
     
   </channel>
