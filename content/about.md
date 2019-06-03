@@ -1,10 +1,12 @@
 ---
-title: "About"
+title: "Who we are"
 omit_header_text: true
 description: "We'd love to hear from you"
-featured_image: '/images/B5T4HY.jpg'
+featured_image: '/images/bg-2.jpeg'
 type: page
-menu: "main"
+menu:
+    main:
+        weight: 100
 ---
 
 Polish City Club (PCC) is a members-only organization founded by Polish professionals working in London.

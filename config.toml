@@ -4,10 +4,9 @@ title = "Polish City club"
 themesDir = "themes"
 theme = "gohugo-theme-ananke"
 publishDir = "docs"
-SectionPagesMenu = "main"
 
 [params]
     facebook = "https://www.facebook.com/PolishCityClub/"
     twitter = "https://twitter.com/PolishCityClub"
     linkedin = "http://www.linkedin.com/groups/Polish-City-Club-1393417/about"
-    featured_image = "/images/B5T4HY.jpg"
+    featured_image = "/images/bg-1.jpeg"

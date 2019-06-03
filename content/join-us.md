@@ -2,9 +2,11 @@
 title: "Join us"
 omit_header_text: true
 description: "We'd love to hear from you"
-featured_image: '/images/B5T4HY.jpg'
+featured_image: '/images/bg-1.jpeg'
 type: page
-menu: "main"
+menu:
+    main:
+        weight: 300
 ---
 
 How to join us? Members who join Polish City Club meet the following criteria:

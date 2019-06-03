@@ -11,18 +11,6 @@
     
     
     <item>
-      <title>About</title>
-      <link>https://pawelsawicz.github.io/pcc-website/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pawelsawicz.github.io/pcc-website/about/</guid>
-      <description>Polish City Club (PCC) is a members-only organization founded by Polish professionals working in London.
-The Club’s mission is to integrate the professionals interested in building a well connected and successful Polish diaspora in the UK, actively promote Poland, facilitate knowledge exchange among Polish professionals, politicians and international communities and increase interest of international business communities in Poland-related issues.
-The objectives of our Club include:
- Integration of community of Polish professionals living in London by building a well-connected and successful Polish diaspora in the UK Acting as a platform of integration and know-how exchange among Club members, politicians, academics and members of international business communities Promoting the image of Poland in the UK Promoting awareness among the business community at large of economic, political and other developments related to Poland Cooperating with the governmental bodies and think-tanks in order to represent Polish interests in the UK    </description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>https://pawelsawicz.github.io/pcc-website/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -40,15 +28,6 @@ You can contact us at polishcityclub.org@gmail.com or leave a message using the 
       
       <guid>https://pawelsawicz.github.io/pcc-website/events/1/</guid>
       <description>https://www.facebook.com/events/2110678212556931/</description>
-    </item>
-    
-    <item>
-      <title>Events</title>
-      <link>https://pawelsawicz.github.io/pcc-website/events/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pawelsawicz.github.io/pcc-website/events/</guid>
-      <description>Upcoming events Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Malesuada proin libero nunc consequat interdum varius sit. Sagittis orci a scelerisque purus semper eget duis at tellus. Amet nisl suscipit adipiscing bibendum est. Purus in mollis nunc sed id semper. Ultrices dui sapien eget mi proin sed libero enim. Et leo duis ut diam quam nulla porttitor. Tellus id interdum velit laoreet id donec ultrices.</description>
     </item>
     
     <item>
@@ -118,6 +97,18 @@ Tok FM, 27.08.2015 Prezes PCC w audycji ‘Co sie stalo?’</description>
       
       <guid>https://pawelsawicz.github.io/pcc-website/activities/</guid>
       <description>Guest speaker series In order to broaden network, knowledge and professional aspirations of our members we organise evening gatherings to which we invite interesting, Polish or international speakers from area of politics, academia or business. An hour or so presentation of our guest is usually followed by Q&amp;amp;A session, drinks and networking opportunity. Those who expressed their interest prior to the event may then accompany the guest at a dinner.</description>
+    </item>
+    
+    <item>
+      <title>Who we are</title>
+      <link>https://pawelsawicz.github.io/pcc-website/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/pcc-website/about/</guid>
+      <description>Polish City Club (PCC) is a members-only organization founded by Polish professionals working in London.
+The Club’s mission is to integrate the professionals interested in building a well connected and successful Polish diaspora in the UK, actively promote Poland, facilitate knowledge exchange among Polish professionals, politicians and international communities and increase interest of international business communities in Poland-related issues.
+The objectives of our Club include:
+ Integration of community of Polish professionals living in London by building a well-connected and successful Polish diaspora in the UK Acting as a platform of integration and know-how exchange among Club members, politicians, academics and members of international business communities Promoting the image of Poland in the UK Promoting awareness among the business community at large of economic, political and other developments related to Poland Cooperating with the governmental bodies and think-tanks in order to represent Polish interests in the UK    </description>
     </item>
     
   </channel>

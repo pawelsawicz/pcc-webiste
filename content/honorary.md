@@ -2,9 +2,11 @@
 title: "Honorary Members"
 omit_header_text: true
 description: We'd love to hear from you
-featured_image: '/images/B5T4HY.jpg'
+featured_image: '/images/bg-2.jpeg'
 type: page
-menu: "main"
+menu:
+    main:
+        weight: 150
 ---
 
 #### Count Adam Zamoyski
