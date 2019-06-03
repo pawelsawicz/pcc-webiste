@@ -19,4 +19,6 @@ The objectives of our Club include:
 - Promoting awareness among the business community at large of economic, political and other developments related to Poland
 - Cooperating with the governmental bodies and think-tanks in order to represent Polish interests in the UK
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dfxG-gpsQSE/0.jpg)](https://www.youtube.com/watch?v=dfxG-gpsQSE)
+{{<youtube id="dfxG-gpsQSE">}}
+
+<!-- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dfxG-gpsQSE/0.jpg)](https://www.youtube.com/watch?v=dfxG-gpsQSE) -->

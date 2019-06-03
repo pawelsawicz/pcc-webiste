@@ -49,7 +49,9 @@ http://m.onet.pl/biznes,z67d0l
 
 Aneta Buchert komentuje przemowę Davida Camerona
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jX_gE7Nwt2M/0.jpg)](https://www.youtube.com/watch?time_continue=3&v=jX_gE7Nwt2M)
+{{<youtube id="jX_gE7Nwt2M" time_continue="3">}}
+
+<!-- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jX_gE7Nwt2M/0.jpg)](https://www.youtube.com/watch?time_continue=3&v=jX_gE7Nwt2M) -->
 
 #### Rzeczposolita, 7.12.2014
 

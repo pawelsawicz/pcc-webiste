@@ -19,7 +19,7 @@
       <description>Polish City Club (PCC) is a members-only organization founded by Polish professionals working in London.
 The Club’s mission is to integrate the professionals interested in building a well connected and successful Polish diaspora in the UK, actively promote Poland, facilitate knowledge exchange among Polish professionals, politicians and international communities and increase interest of international business communities in Poland-related issues.
 The objectives of our Club include:
- Integration of community of Polish professionals living in London by building a well-connected and successful Polish diaspora in the UK Acting as a platform of integration and know-how exchange among Club members, politicians, academics and members of international business communities Promoting the image of Poland in the UK Promoting awareness among the business community at large of economic, political and other developments related to Poland Cooperating with the governmental bodies and think-tanks in order to represent Polish interests in the UK</description>
+ Integration of community of Polish professionals living in London by building a well-connected and successful Polish diaspora in the UK Acting as a platform of integration and know-how exchange among Club members, politicians, academics and members of international business communities Promoting the image of Poland in the UK Promoting awareness among the business community at large of economic, political and other developments related to Poland Cooperating with the governmental bodies and think-tanks in order to represent Polish interests in the UK    </description>
     </item>
     
     <item>
@@ -34,6 +34,15 @@ You can contact us at polishcityclub.org@gmail.com or leave a message using the 
     </item>
     
     <item>
+      <title>Event with Greg Hands MP</title>
+      <link>https://pawelsawicz.github.io/pcc-website/events/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/pcc-website/events/1/</guid>
+      <description>https://www.facebook.com/events/2110678212556931/</description>
+    </item>
+    
+    <item>
       <title>Events</title>
       <link>https://pawelsawicz.github.io/pcc-website/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -44,10 +53,10 @@ You can contact us at polishcityclub.org@gmail.com or leave a message using the 
     
     <item>
       <title>Honorary Members</title>
-      <link>https://pawelsawicz.github.io/pcc-website/members/honorary/</link>
+      <link>https://pawelsawicz.github.io/pcc-website/honorary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pawelsawicz.github.io/pcc-website/members/honorary/</guid>
+      <guid>https://pawelsawicz.github.io/pcc-website/honorary/</guid>
       <description>Count Adam Zamoyski Historian, author of books on Polish history
 George Dobry CBE, QC A distinguished English Judge
 Mr Grzegorz Król Managing Director, Nestle UK HE
@@ -67,11 +76,21 @@ Mr Kazimierz Marcinkiewicz Former Prime Minister of Poland; Director for Poland/
     </item>
     
     <item>
-      <title>PCC structure</title>
-      <link>https://pawelsawicz.github.io/pcc-website/members/structure/</link>
+      <title>Members</title>
+      <link>https://pawelsawicz.github.io/pcc-website/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pawelsawicz.github.io/pcc-website/members/structure/</guid>
+      <guid>https://pawelsawicz.github.io/pcc-website/members/</guid>
+      <description>The Members of our Club are highly skilled, experienced and successful Professionals who are enthusiastic and motivated to dedicate their time and energy in helping each other as well as acting in the interest of Poland. They share the common values and believe in the ethos of mutual respect and open discussions. They act to promote the good name and image of Poland.
+The Club membership offers our members wide range of benefits that include opportunity to:</description>
+    </item>
+    
+    <item>
+      <title>PCC structure</title>
+      <link>https://pawelsawicz.github.io/pcc-website/structure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/pcc-website/structure/</guid>
       <description>PCC management team: - Jakub Molski – Presient</description>
     </item>
     

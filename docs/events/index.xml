@@ -10,5 +10,14 @@
 	<atom:link href="https://pawelsawicz.github.io/pcc-website/events/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Event with Greg Hands MP</title>
+      <link>https://pawelsawicz.github.io/pcc-website/events/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/pcc-website/events/1/</guid>
+      <description>https://www.facebook.com/events/2110678212556931/</description>
+    </item>
+    
   </channel>
 </rss>
