@@ -4,6 +4,7 @@ title = "Polish City club"
 themesDir = "themes"
 theme = "gohugo-theme-ananke"
 publishDir = "docs"
+pcc_logo = "/images/pcc_circle.png"
 
 [params]
     facebook = "https://www.facebook.com/PolishCityClub/"

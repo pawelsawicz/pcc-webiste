@@ -20,4 +20,4 @@ How to join us? Members who join Polish City Club meet the following criteria:
 
 If you meet the above criteria and would like to join please fill our contact form. We will come back to you shortly with further details. Successful candidates will be asked to pay the annual membership fee of £130,paid to HSBC Sort code: 400317, ACCOUNT number: 61645552. Although Polish City Club is based in London, membership is not confined to residents of the United Kingdom. Should you have any questions contact us at polishcityclub.org@gmail.com   SIGN UP
 
-{{< form-contact action="https://formspree.io/your@email.com" >}}
+{{< join-us action="https://formspree.io/polishcityclub.org@gmail.com" >}}

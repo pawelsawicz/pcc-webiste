@@ -20,4 +20,4 @@ Contact us if you:
 
 You can contact us at polishcityclub.org@gmail.com or leave a message using the contact form below.
 
-{{< form-contact action="https://formspree.io/your@email.com" >}}
+{{< form-contact action="https://formspree.io/polishcityclub.org@gmail.com" >}}

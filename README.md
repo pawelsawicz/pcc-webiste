@@ -1,22 +1,20 @@
 # pcc-webiste
 
-todo list
-
-- [ ] Get paid image for main page
-- [ ] Decide about the content of the main page 
-- [ ] About
-- [ ] Events, do we want to reuse facebook events ?
-- [x] Join us, add content, add contact form
-- [ ] Add content for press
-- [ ] Add contact page with contact form
-- [ ] Get logo
-- [ ] Sort menu: 
-
-
 Used technologies:
 
 - Hugo () with template - ()
 - Forms - https://formspree.io/
+
+##TODO
+
+- [ ] Add PCC Logo in left upper corner
+- [x] Add LinkedIn field in join-us page
+- [ ] Hide PCC Structure under Members
+- [ ] Hide Honorary Members under Members
+- [ ] Add section in Honorary Members with past presidents
+- [ ] Revisit "What we do" page
+- [ ] Add LinkedIn + Twitter feed on main page
+- [ ] Add Past/Future events on the main page
 
 
 ## TBD
@@ -31,3 +29,9 @@ Used technologies:
 ## TBD V2
 
 1. Events, link with
+
+- fb/linked-in main website
+- evenbrite
+- linked link apply join-us
+- zdjecia honorary members
+- zdjecia pcc structure
