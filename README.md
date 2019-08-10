@@ -4,6 +4,7 @@ Used technologies:
 
 - Hugo () with template - ()
 - Forms - https://formspree.io/
+- Local deplyment: https://pawelsawicz.github.io/pcc-website/
 
 ##TODO
 
