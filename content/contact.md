@@ -4,9 +4,6 @@ omit_header_text: true
 description: "We'd love to hear from you"
 featured_image: '/images/bg-1.jpeg'
 type: page
-menu:
-    main:
-        weight: 300
 ---
 
 Contact us if you:
