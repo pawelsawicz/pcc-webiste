@@ -7,4 +7,3 @@ description: "We are an organisation of Polish professionals who are committed t
 
 {{< twitter-timeline >}}
 {{< fb-timeline >}}
-{{< fb-events-list >}}
