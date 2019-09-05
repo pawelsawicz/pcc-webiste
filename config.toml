@@ -53,6 +53,12 @@ custom_css = ["css/custom.css"]
         url = "/structure/"
     [[menu.main]]
         parent = "members"
+        name = "Membership"
+        weight = -110
+        identifier = "membership"
+        url = "/membership/"
+    [[menu.main]]
+        parent = "members"
         name = "Honorary Members"
         weight = -110
         identifier = "honorary"
