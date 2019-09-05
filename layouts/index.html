@@ -17,6 +17,15 @@ pages. */}}
       {{ with .Site.GetPage "section" $section_name }}
       
       <h1 class="flex-none">
+        News
+      </h1>
+      <section class="w-90 mw8">
+          <div class="relative w-100 mb4">
+              {{ partial "news-membership.html" . }}
+          </div>
+      </section>
+
+      <h1 class="flex-none">
         Past events
       </h1>
       {{ end }}
@@ -59,7 +68,7 @@ pages. */}}
             Social media
           </h1>  
       {{ .Content }}
-      </div>
+    </div>
   </section>
 </article>
 {{ end }}
