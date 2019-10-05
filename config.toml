@@ -1,4 +1,4 @@
-baseURL = "https://pawelsawicz.github.io/pcc-website/"
+baseURL = "http://polishcityclub.org/"
 languageCode = "en-us"
 title = "Polish City club"
 themesDir = "themes"
